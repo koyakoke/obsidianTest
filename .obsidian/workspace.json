@@ -34,9 +34,65 @@
               "icon": "lucide-file",
               "title": "testfile"
             }
+          },
+          {
+            "id": "5c51c4291d3a8af8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_inbox/Notion/cursorのYouTubeを見て.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cursorのYouTubeを見て"
+            }
+          },
+          {
+            "id": "1d26051bdd7d6066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_inbox/Notion/cursorのYouTubeを見て.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cursorのYouTubeを見て"
+            }
+          },
+          {
+            "id": "600e25519995191a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_memo/todoメモ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "todoメモ"
+            }
+          },
+          {
+            "id": "4168c31d3ad0e824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_inbox/Clippings/単なるメモから知的資産へ：Obsidian in Cursorで構築する知的生産システム｜松濤Vimmer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "単なるメモから知的資産へ：Obsidian in Cursorで構築する知的生産システム｜松濤Vimmer"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testfile.md",
+                "file": "10_memo/todoメモ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "testfileへのバックリンク"
+              "title": "todoメモへのバックリンク"
             }
           },
           {
@@ -128,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testfile.md",
+                "file": "10_memo/todoメモ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "testfileからのアウトゴーイングリンク"
+              "title": "todoメモからのアウトゴーイングリンク"
             }
           },
           {
@@ -157,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testfile.md",
+                "file": "10_memo/todoメモ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "testfileのアウトライン"
+              "title": "todoメモのアウトライン"
             }
           }
         ]
@@ -180,11 +236,37 @@
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false
+      "command-palette:コマンドパレットを開く": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "9feadfe5ac17948c",
+  "active": "600e25519995191a",
   "lastOpenFiles": [
-    "README.md"
+    "05_プロンプト/タグ付けプロンプト.md",
+    "10_memo/todoメモ.md",
+    "10_memo/todoメモ",
+    "20_inbox/Clippings/単なるメモから知的資産へ：Obsidian in Cursorで構築する知的生産システム｜松濤Vimmer.md",
+    "05_プロンプト",
+    "20_inbox/Clippings/Fast Request Pricing Transparency - Feedback.md",
+    "20_inbox/Notion/Cursorのエージェントを使ってみて.md",
+    "path/to/update_notion_metadata.py",
+    "path/to",
+    "path",
+    "20_inbox/Notion/cursorのcodebaseってなに？.md",
+    "20_inbox/Notion/クラウドのベクトルDBにチャンク分割してベクトル化したものを保存しているということ？.md",
+    "20_inbox/Notion/ベクトル埋め込み等をIDEの中（ローカル環境）でやっているということ？.md",
+    "20_inbox/Notion/プロジェクト全体をAIが理解しているのはどういう仕組みで理解している？.md",
+    "20_inbox/Notion/cursorのYouTubeを見て.md",
+    "20_inbox/Notion/無題のフォルダ",
+    "90_template/テンプレート１.md",
+    "testfile.md",
+    "30_literature/単なるメモから知的資産へ_summary.md",
+    "README.md",
+    "テストファイルリンク.md",
+    "90_template",
+    "#30_literature/単なるメモから知的資産へ_summary.md",
+    "#30_literature",
+    "20_inbox/Notion",
+    "40_evergreen"
   ]
 }
